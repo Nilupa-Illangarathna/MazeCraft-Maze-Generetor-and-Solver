@@ -1,4 +1,4 @@
-# Maze-Generator-and-seperate-solver
+# Maze-Generetor-and-seperate-solver
 
 ![Generatod maze](https://user-images.githubusercontent.com/95247831/200484780-d9e64b44-65d9-417f-8b99-f7b8a298b7ba.png)
 
