@@ -2,6 +2,10 @@
 
 This C++ project provides a maze generator and solver, offering an interactive experience with mazes of various sizes. The generator employs a recursive algorithm to create mazes, while the solver uses a depth-first search approach to find the path from the start (A) to the end (B).
 
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+
+
 ## Features
 
 - **Maze Generation**: Create mazes of customizable dimensions, choosing from predefined widths and heights.
