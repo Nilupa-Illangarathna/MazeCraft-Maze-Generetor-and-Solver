@@ -1,4 +1,4 @@
-# Maze-Generetor-and-seperate-solver
+# MazeCraft: Maze Generetor and Solver
 
 This C++ project provides a maze generator and solver, offering an interactive experience with mazes of various sizes. The generator employs a recursive algorithm to create mazes, while the solver uses a depth-first search approach to find the path from the start (A) to the end (B).
 
